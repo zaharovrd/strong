@@ -1,0 +1,12 @@
+{
+  "components" : [
+    "cover",
+    "features",
+    "team",
+    "pricing",
+    "contact"
+  ],
+  "email" : "zvonovae@gmail.com",
+  "googleAnalytics" : "UA-43867661-4",
+  "disqusShortname" : "strong-coach.disqus.com"
+}

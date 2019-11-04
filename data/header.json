@@ -1,0 +1,22 @@
+{
+  "brand" : "Strong.Coach",
+  "logo" : "logo-black.png",
+  "links" : [
+    {
+      "title" : "Главная",
+      "href" : ""
+    },
+    {
+      "title" : "Strong",
+      "href" : "#features"
+    },
+    {
+      "title" : "Стоимость",
+      "href" : "#pricing"
+    },
+    {
+      "title" : "Контакты",
+      "href" : "#contact"
+    }
+  ]
+}
