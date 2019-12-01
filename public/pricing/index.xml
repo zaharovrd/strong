@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pricings on Strong.coach | 90-дневная программа трансформации Вашего тела</title>
+    <link>https://strong.coach/pricing/</link>
+    <description>Recent content in Pricings on Strong.coach | 90-дневная программа трансформации Вашего тела</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2019 22:56:09 +0300</lastBuildDate>
+    
+	<atom:link href="https://strong.coach/pricing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic</title>
+      <link>https://strong.coach/pricing/basic/</link>
+      <pubDate>Thu, 21 Nov 2019 22:56:09 +0300</pubDate>
+      
+      <guid>https://strong.coach/pricing/basic/</guid>
+      <description> Pricing Что такое hugo </description>
+    </item>
+    
+  </channel>
+</rss>
